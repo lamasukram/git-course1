@@ -1,3 +1,4 @@
 Hellow world !!!
 input data from user
-and add the value
+and add the c
+creat a avater 
